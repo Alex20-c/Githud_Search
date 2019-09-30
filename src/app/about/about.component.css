@@ -1,12 +1,12 @@
 .jumbotron{
     padding: 2%;
-    margin-top: 19px;
+    margin-top: 25px;
 }
 h3{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 56px;
 }
 h5{
-    font-family: 'Courier New', Courier, monospace;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
 }
