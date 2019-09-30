@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+body{
+    background-image: url('https://miro.medium.com/max/1200/1*FFYtzf28XKPFBdknfXf-jg.jpeg');
+    background-size: cover;
+}
+.jum{
+    color: gray;
+}
