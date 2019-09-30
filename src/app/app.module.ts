@@ -9,6 +9,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { PageErrorComponent } from './page-error/page-error.component';
 import { ProfileComponent } from './profile/profile.component';
 import { ProfileRequestComponent } from './profile-request/profile-request.component';
+import { UpperCasePipe } from './upper-case.pipe';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { ProfileRequestComponent } from './profile-request/profile-request.compo
     NavbarComponent,
     PageErrorComponent,
     ProfileComponent,
-    ProfileRequestComponent
+    ProfileRequestComponent,
+    UpperCasePipe
   ],
   imports: [
     BrowserModule,
