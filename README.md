@@ -6,7 +6,7 @@ Alex kiprop.
 
 ## Description
 
-Git search app is where Users enter a GitHub username into a form,submit it, and see names and descriptions of that person's public repositories.The  app is developed using Angular CLI ,Bootstrap ,Typescript nodejs and npm .Given is the live link 
+Git search app is where Users enter a GitHub username into a form,submit it, and see names and descriptions of that person's public repositories.The  app is developed using Angular CLI ,Bootstrap ,Typescript nodejs and npm .Given is the live link.
 
 
 ## Installations
@@ -26,7 +26,7 @@ After extracting the files, run
 * Open the file with code .
 * cd G-Search
 *  ng serve for a dev server
-* Navigate to `http://localhost:4200/ The app will automatically reload 
+* Navigate to `http://localhost:4200/ The app will automatically reload.
 
 
 you can also run tests with ng test

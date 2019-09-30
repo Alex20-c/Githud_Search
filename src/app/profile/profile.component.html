@@ -14,7 +14,7 @@
             <img src="{{user.avatar_url}}" class="rounded-circle z-depth-2" style="width: 60vh;"
                 data-holder-rendered="true" alt=""> <br> <br>
 
-            <p>
+            <p class="m">
                 <span class="badge badge-pill badge-secondary">Public Repositories: {{user.public_repos}}</span><br>
                 <span class="badge badge-pill badge-success">Following: {{user.following}}</span><br>
                 <span class="badge badge-pill badge-default">Followers: {{user.followers}}</span><br>
@@ -22,8 +22,7 @@
             <p><a href="{{user.html_url}}" target="_blank" class="btn btn-danger btn-rounded">View Profile On Github</a>
             </p>
 
-            <h5>
-                username: <strong>{{user.login}}</strong>
+            <h5> Username: <strong>{{user.login}}</strong>
             </h5>
             <h5> Bio Data: <strong>{{user.bio|upperCase}}</strong></h5>
             <h5 appTextColourChange> Member since: <strong>{{user.created_at|date}}</strong></h5>
