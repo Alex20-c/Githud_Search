@@ -2,7 +2,7 @@
 <div class="container-fluid">
     <div class="form-group">
         <div class="row">
-            <div class="col-md-7" style="margin-right: 30vh">
+            <div class="col-md-7" style="margin-left: 30vh">
                 <input type="text" class="form-control" placeholder="Search Github username" [(ngModel)]="username"
                     name="username">
             </div>
@@ -15,7 +15,7 @@
                 data-holder-rendered="true" alt=""> <br> <br>
 
             <p>
-                <span class="badge badge-pill badge-secondary">Public Repositories: {{user.public_repos}}</span>
+                <span class="badge badge-pill badge-secondary">Public Repositories: {{user.public_repos}}</span><br>
                 <span class="badge badge-pill badge-success">Following: {{user.following}}</span><br>
                 <span class="badge badge-pill badge-default">Followers: {{user.followers}}</span><br>
             </p>
@@ -40,6 +40,5 @@
                 </div>
             </div>
         </div>
-        <h1>{{repo}}</h1>
     </div>
 </div>
