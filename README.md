@@ -6,7 +6,7 @@ Alex kiprop.
 
 ## Description
 
-Git search app is where Users enter a GitHub username into a form,submit it, and see names and descriptions of that person's public repositories.The  app is developed using Angular CLI ,Bootstrap ,Typescript nodejs and npm .Given is the live link.
+Github-search app is an web application where Users enter a GitHub username and when you submit it, you are able to see a picture of the user,his/her public repositories,his/her followers and following.
 
 
 ## Installations
@@ -28,8 +28,6 @@ After extracting the files, run
 *  ng serve for a dev server
 * Navigate to `http://localhost:4200/ The app will automatically reload.
 
-
-you can also run tests with ng test
 
 ## Technologies Used
 * Html5
@@ -54,7 +52,7 @@ you can also run tests with ng test
 
 ## License
 MIT License &copy 2019 Alex
-Copyright (c) [2019][G-Search]
+Copyright (c) [2019][Github-Search]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
