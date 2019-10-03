@@ -26,7 +26,7 @@ After extracting the files, run
 * Open the file with code .
 * cd G-Search
 *  ng serve for a dev server
-* Navigate to `http://localhost:4200/ The app will automatically reload.
+* Navigate to 'https://alex20-c.github.io/Githud_Search/' The app will automatically reload.
 
 
 ## Technologies Used
