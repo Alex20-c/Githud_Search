@@ -41,7 +41,7 @@ After extracting the files, run
 
 * Input username on the form provided a
 
-	Github username, eg (rmogusu) and press search button 
+	Github username, eg (Alex20-c) and press search button 
 
 * Outputs	Description
 
